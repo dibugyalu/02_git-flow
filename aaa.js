@@ -4,6 +4,12 @@ console.log("master_222")
 
 console.log("master_333")
 
+console.log("修复bug1")
+
+console.log("修复bug完成")
+
+console.log("修复bug终于完成")
+
 console.log("dev_111")
 
 console.log("dev_222")
